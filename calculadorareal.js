@@ -15,7 +15,9 @@ class Calculator {
 
     appendSimbols(simbol) {
     if (this.first == '') return 
-    
+    if (this.second != '') {
+        this.calc()
+    }
     if (this.second == '') {
      this.second = this.first
     }
