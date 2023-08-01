@@ -3,7 +3,6 @@ Projeto de uma calculadora funcionando perfeitamente.
 
 
 
-
 ## Funcionalidades
 
 - Tema dark
